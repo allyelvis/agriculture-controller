@@ -1,0 +1,15 @@
+{
+  "name": "agriculture-controller",
+  "version": "1.0.0",
+  "description": "agriclutre management",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/allyelvis/agriculture-controller"
+  },
+  "author": "Ally Elvis Nzeyimana",
+  "license": "ISC"
+}
