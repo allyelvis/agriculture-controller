@@ -1,0 +1,11 @@
+{
+  "name": "agriculture-backend",
+  "version": "1.0.0",
+  "description": "backend for agriculture program",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ally Elvis Nzeyimana",
+  "license": "ISC"
+}

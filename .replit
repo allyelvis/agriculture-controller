@@ -1,3 +1,7 @@
 modules = ["nodejs-20", "angular-node-20", "bash", "bun-1.0", "gcloud", "nodejs-18", "nodejs-19", "php-8.2", "php-8.1", "python-3.9", "python-3.10", "qbasic", "vue-node-20", "typescript-language-server", "web", "docker"]
 [nix]
 channel = "stable-24_05"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
